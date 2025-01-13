@@ -6,6 +6,8 @@ v 0.0.1
 
 projectUrl: https://github.com/charuchandra404/githubActivity
 
+https://roadmap.sh/projects/github-user-activity
+
 ## Dependency
 
 ## Management
